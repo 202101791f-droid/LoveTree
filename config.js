@@ -9,9 +9,7 @@ var config = {
         "Mi querido amorcito, eres mi único amor",
         "Te amaré para siempre...",
     ],
-    // Mi amor comenzo por ti hace....
-    // Año-Mes-Día Hora:Minuto:Segundo
+    //Mi amor comenzo por ti hace....
+    //Año-Mes-Día Hora:Minuto:Segundo
     date:"2017-10-07T00:00:00",
-    //  Nombres de ambas partes
-    names: ["Chucurrumi", "Mi tesorote hermsote"]
-}
+    names: ["Chucurrumi","Mi tesorote hermsote"]
