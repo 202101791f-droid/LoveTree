@@ -15,8 +15,10 @@ var config = {
     // 分别是 年-月-日T时时:分分:秒秒
     //      温馨警告:
     //          1.时分秒都必须是俩个数字  比如 00:00:00
-    //          2.T不能丢了
+    //          2.T不能丢了   
+    lines: [
        "Mi amor por ti comenzo hace ....",
+         ],
     date: "2017-10-07T00:00:00",
     // Nombres de ambas partes.
     names: ["Chucurrumi", "Mi tesorote hermsote"]
