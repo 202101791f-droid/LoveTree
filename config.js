@@ -10,6 +10,6 @@ var config = {
         "Te amaré para siempre...",
     ],
     //Mi amor comenzo por ti hace....
-    //Año-Mes-Día Hora:Minuto:Segundo
+    //Año-Mes-Día T Hora:Minuto:Segundo
     date:"2017-10-07T00:00:00",
-    names: ["Chucurrumi","Mi tesorote hermsote"]
+    names:["Chucurrumi","Mi tesorote hermsote"]
