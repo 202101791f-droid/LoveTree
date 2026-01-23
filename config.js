@@ -1,25 +1,30 @@
-// 霸都丶傲天 2019/7/9  https://Github.com/AJLoveChina
+// Autor original: 霸都丶傲天 2019/7/9
+// Repositorio: https://github.com/AJLoveChina
+
 var config = {
-    // Las siguientes oraciones no necesariamente tienen que ser 7; puedes cambiarlas a 4 o incluso a 2 oraciones.
+    // Las siguientes frases no necesariamente tienen que ser 7,
+    // puedes usar 2, 4 o las que desees.
     lines: [
-        "Para el amor de mi vida Yasmina",
-        "Si pudiera elegir un lugar",
-        "Seguro, seria a tu lado",
-        "Cuanto mas tiempo estoy",
-        "Contigo mas te amo",
-        "Mi querido amorcito, eres mi único amor",
-        "Te amaré para siempre...",
+        "Para el amor de mi vida, Yasmina",
+        "Si pudiera elegir un lugar en el mundo",
+        "Sin dudarlo, sería a tu lado",
+        "Cuanto más tiempo paso contigo",
+        "Más te amo con todo mi corazón",
+        "Mi amorcito, eres mi único amor",
+        "Te amaré por siempre...",
+        "Mi amor por ti comenzó hace..."
     ],
-     // 相爱的时间 记住格式不能写错了, 非常重要
-    // 格式一定要和下面这个时间格式一样
-    // 分别是 年-月-日T时时:分分:秒秒
-    //      温馨警告:
-    //          1.时分秒都必须是俩个数字  比如 00:00:00
-    //          2.T不能丢了   
-    lines: [
-       "Mi amor por ti comenzo hace ....",
-         ],
-    date: "2017-10-07T00:00:00",
-    // Nombres de ambas partes.
-    names: ["Chucurrumi", "Mi tesorote hermsote"]
-}
+};
+
+// Tiempo desde que comenzó el amor
+// ⚠️ IMPORTANTE: No cambiar el formato
+// Formato obligatorio: AAAA-MM-DDTHH:MM:SS
+// Reglas:
+// 1. Horas, minutos y segundos deben tener dos dígitos (00:00:00)
+// 2. La letra 'T' es obligatoria
+
+date: "2017-10-07T00:00:00",
+
+// Nombres de ambos
+names: ["Chucurrumi", "Mi tesorote hermosote"];
+
