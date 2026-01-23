@@ -12,7 +12,7 @@ var config = {
         "Más te amo con todo mi corazón",
         "Mi amorcito, eres mi único amor",
         "Te amaré por siempre...",
-        "Mi amor por ti comenzó hace..."
+        "Mi amor por ti comenzó hace...",
     ],
 };
 
