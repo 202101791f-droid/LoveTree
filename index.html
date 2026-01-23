@@ -12,8 +12,7 @@
     <script type="text/javascript" src="./index_files/jscex-builderbase.min.js"></script>
     <script type="text/javascript" src="./index_files/jscex-async.min.js"></script>
     <script type="text/javascript" src="./index_files/jscex-async-powerpack.min.js"></script>
-    <script type="text/javascript" src="./index_files/functions.js"
-" charset="utf-8"></script>
+    <script type="text/javascript" src="./index_files/functions.js" charset="utf-8"></script>
     <script type="text/javascript" src="./index_files/love.js" charset="utf-8"></script>
     <script type="text/javascript" src="./config.js"></script>
     <style type="text/css">
@@ -21,6 +20,7 @@
         .STYLE1 {
             color: #666666
         }
+
         -->
     </style>
 </head>
@@ -48,13 +48,9 @@
 </style>
 
 <div id="main">
-    <div id="error">
-        Esta página utiliza HTML5. Actualmente tu navegador no puede mostrarla correctamente.
-        Por favor, usa Google
-        (<a href="https://www.google.cn/chrome/intl/zh-CN/landing_chrome.html?hl=zh-CN&brand=CHMI">Chrome</a>)
-        o Firefox
-        (<a href="http://firefox.com.cn/download/">Firefox</a>)
-        u otro navegador en su versión más reciente.
+    <div id="error">本页面采用HTML5编辑，目前您的浏览器无法显示，请换成谷歌(<a
+            href="http://www.google.cn/chrome/intl/zh-CN/landing_chrome.html?hl=zh-CN&brand=CHMI">Chrome</a>)或者火狐(<a
+            href="http://firefox.com.cn/download/">Firefox</a>)浏览器，或者其他游览器的最新版本。
     </div>
     <div id="wrap">
         <div id="text">
@@ -194,7 +190,7 @@
             foot.draw();
             tree.snapshot("p2", 500, 0, 610, 680);
 
-            // Puede haber un pequeño parpadeo, pero funciona mejor así
+            // 会有闪烁不得意这样做, (＞﹏＜)
             canvas.parent().css("background", "url(" + tree.toDataURL('image/png') + ")");
             canvas.css("background", "#ffe");
             $await(Jscex.Async.sleep(300));
@@ -237,6 +233,5 @@
     })();
 </script>
 
-</body>
-</html>
 
+</body>
