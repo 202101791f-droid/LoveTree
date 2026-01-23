@@ -13,6 +13,12 @@ var config = {
         "Mi amorcito, eres mi único amor",
         "Te amaré por siempre...",
 
+
+
+
+
+
+        
         "Mi amor por ti comenzó hace...",
     ],
 };
@@ -24,7 +30,7 @@ var config = {
 // 1. Horas, minutos y segundos deben tener dos dígitos (00:00:00)
 // 2. La letra 'T' es obligatoria
 
-date: "2017-10-07T00:00:00"
+date: "2017-10-07 00:00:00"
 
 // Nombres de ambos
 names: [" Rodrigo y Yasmina por siempre"]
