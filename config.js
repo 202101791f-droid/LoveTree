@@ -21,16 +21,11 @@ var config = {
         
         "Mi amor por ti comenzó hace...",
     ],
-};
+     ],
+    // 相爱的时间 记住格式不能写错了, 非常重要
+    // 格式一定要和下面这个时间格式一样
+    // 分别是 年-月-日 时:分:秒
+    date: "2017-10-07 00:00:00",
+    // 双方的名字
+    names: ["Rodrigo " y "Yasmina"]
 
-// Tiempo desde que comenzó el amor
-// ⚠️ IMPORTANTE: No cambiar el formato
-// Formato obligatorio: AAAA-MM-DDTHH:MM:SS
-// Reglas:
-// 1. Horas, minutos y segundos deben tener dos dígitos (00:00:00)
-// 2. La letra 'T' es obligatoria
-
-date: "2017-10-07 00:00:00"
-
-// Nombres de ambos
-names: [" Rodrigo y Yasmina por siempre"]
