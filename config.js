@@ -12,6 +12,12 @@ var config = {
         "Más te amo con todo mi corazón",
         "Mi amorcito, eres mi único amor",
         "Te amaré por siempre...",
+
+
+
+
+
+        
         "Mi amor por ti comenzó hace...",
     ],
 };
@@ -26,4 +32,4 @@ var config = {
 date: "2017-10-07T00:00:00"
 
 // Nombres de ambos
-name: [" Rodrigo y Yasmina por siempre"]
+names: [" Rodrigo y Yasmina por siempre"]
