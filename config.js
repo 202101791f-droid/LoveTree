@@ -23,8 +23,8 @@ var config = {
 // 1. Horas, minutos y segundos deben tener dos dígitos (00:00:00)
 // 2. La letra 'T' es obligatoria
 
-date: "2017-10-07T00:00:00",
+date: "2017-10-07T00:00:00"
 
 // Nombres de ambos
+name: [" Rodrigo y Yasmina por siempre"]
 names: ["Chucurrumi", "Mi tesorote hermosote"];
-
