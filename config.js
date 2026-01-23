@@ -13,11 +13,6 @@ var config = {
         "Mi amorcito, eres mi único amor",
         "Te amaré por siempre...",
 
-
-
-
-
-        
         "Mi amor por ti comenzó hace...",
     ],
 };
